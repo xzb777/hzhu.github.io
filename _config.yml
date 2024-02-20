@@ -21,7 +21,7 @@ repository               : "xzb777/hzhu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "aca.png"
+  avatar           : "profile.png"
   name             : "Hao Zhu"
   pronouns         : # example: "she/her"  
   location         : "Bei Jing"
