@@ -6,6 +6,13 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# server process.
 # Basic Site Settings
 locale                   : "CN"
 title                    : "Hao Zhu's personal homepage"
@@ -15,7 +22,6 @@ description              : &description "personal description"
 url                      : https://github.com/xzb777/hzhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xzb777/hzhu.github.io"
-
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
@@ -25,6 +31,7 @@ author:
   name             : "Hao Zhu"
   pronouns         : # example: "she/her"  
   location         : "Bei Jing"
+  location         : #"Bei Jing"
   employer         : "Peking University"
   email            : "hzhu721@stu.suda.edu.cn" 
 
@@ -35,11 +42,11 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
+  github           : "academicpages"
   github           : #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
@@ -63,14 +70,13 @@ author:
   telegram         : # URL
   tumblr           : # Username
   twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : #"UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
-
-
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
