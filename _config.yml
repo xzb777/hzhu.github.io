@@ -11,7 +11,7 @@ title                    : "Hao Zhu's personal homepage"
 title_separator          : "-"
 name                     : &name "Hao Zhu"
 description              : &description "personal description"
-url                      : https://xzb777.github.io/hzhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://github.com/xzb777/hzhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xzb777/hzhu.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,7 +22,6 @@ author:
   avatar           : "aca.png"
   name             : "Hao Zhu"
   pronouns         : # example: "she/her"  
-  location         : "Bei Jing"
   location         : #"Bei Jing"
   employer         : "Peking University"
   email            : "hzhu721@stu.suda.edu.cn" 
@@ -38,7 +37,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"academicpages"
   github           : #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
@@ -62,7 +61,6 @@ author:
   telegram         : # URL
   tumblr           : # Username
   twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
-  twitter          : #"UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
